@@ -28,6 +28,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := dagu
 PRODUCT_NAME := twrp_dagu
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := 22021281AC
+#PRODUCT_MODEL := 22021281AC
+PRODUCT_MODEL := Xiaomi Pad 5 Pro 12.4
 PRODUCT_MANUFACTURER := Xiaomi
 #PRODUCT_RELEASE_NAME := Xiaomi Pad 5 Pro 12.4
